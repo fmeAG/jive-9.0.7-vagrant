@@ -1,4 +1,5 @@
-yum -y install bash cairo cups-libs expat fontconfig keyutils-libs krb5-libs libpng libSM libX11 libXau libXdmcp libXext libXinerama libXrender mesa-libGL ntp openssl pam sysstat wget
+yum -y install epel-release
+yum -y install bash cairo cups-libs expat fontconfig keyutils-libs krb5-libs libpng libSM libX11 libXau libXdmcp libXext libXinerama libXrender mesa-libGL ntp openssl pam sysstat wget lnav
 
 cd /vagrant
 wget https://download.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7.8-x86_64/pgdg-centos95-9.5-3.noarch.rpm
