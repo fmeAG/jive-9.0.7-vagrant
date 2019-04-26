@@ -1,7 +1,7 @@
 {
     "name": "jive-9.0.7-vagrant",
     "version": "1.0.0",
-    "description": "\u0018# Jive-9-Vagrant Setup Jive 9 in minutes with Vagrant",
+    "description": "Jive-9-Vagrant Setup Jive 9 in minutes with Vagrant",
     "main": "index.js",
     "dependencies": {},
     "devDependencies": {
