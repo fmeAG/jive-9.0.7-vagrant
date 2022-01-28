@@ -26,7 +26,7 @@ EOF
 
 
 	
-yum -y install /vagrant/jive_sbs_employee-9.0.7.0.el7.x86_64.rpm
+yum -y install /vagrant/jive_sbs_employee-9.2.0.0.el7.x86_64.rpm
 
 #https://static.jiveon.com/docconverter
 wget https://static.jiveon.com/docconverter/jive_pdf2swf-0.9.1-b_RHEL_7.x86_64.rpm
